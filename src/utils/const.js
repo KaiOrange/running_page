@@ -13,7 +13,7 @@ const MUNICIPALITY_CITIES_ARR = [
 // IF you outside China please make sure IS_CHINESE = false
 const IS_CHINESE = true;
 const CHINESE_INFO_MESSAGE = (yearLength, year) =>
-  `我用 App 记录自己跑步 ${yearLength} 年了，下面列表展示的是 ${year} 的数据`;
+  `我用 Keep 记录自己跑步 ${yearLength} 年了，下面列表展示的是 ${year} 的数据`;
 const ENGLISH_INFO_MESSAGE = (yearLength, year) =>
   `Running Journey with ${yearLength} Years, the table shows year ${year} data`;
 
@@ -45,10 +45,10 @@ export {
 };
 
 export const AVATAR =
-  'https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcQTtc69JxHNcmN1ETpMUX4dozAgAN6iPjWalQ&usqp=CAU'; // Temp avatar
+  'https://www.kai666666.top/images/avatar.png'; // Temp avatar
 export const NAVS = [
-  { text: 'Blog', link: 'https://github.com/yihong0618/running_page' },
-  { text: 'About', link: 'https://github.com/yihong0618/running_page' },
+  { text: '博客', link: 'https://kai666666.top' },
+  { text: 'Github', link: 'https://github.com/KaiOrange' },
 ];
 
 const nike = 'rgb(224,237,94)';
