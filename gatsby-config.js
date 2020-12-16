@@ -2,9 +2,9 @@ const path = require("path");
 
 module.exports = {
   siteMetadata: {
-    title: "跑步页面",
+    title: "love-exercise的跑步记录",
     siteUrl: "https://run.kai666666.top",
-    description: "个人跑步页面",
+    description: "Keep昵称：love-exercise",
   },
   plugins: [
     "gatsby-plugin-react-helmet",
