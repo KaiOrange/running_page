@@ -24,7 +24,7 @@ env:
   ATHLETE: love-exercise
   TITLE: love-exercise的跑步记录
   TITLE_GRID: Over 10km Runs
-  GITHUB_NAME: KaiOrange
+  GITHUB_NAME: Orange
   GITHUB_EMAIL: huangkaiking@126.com
 
 jobs:
