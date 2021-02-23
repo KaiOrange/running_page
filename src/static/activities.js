@@ -6382,6 +6382,34 @@ const activities = [
     "average_heartrate": null,
     "average_speed": 3.029558271313592,
     "streak": 1
+  },
+  {
+    "run_id": 9223370422935572807,
+    "name": "run from keep",
+    "distance": 1025.0,
+    "moving_time": "0:25:53",
+    "type": "Run",
+    "start_date": "2021-02-21 14:27:29",
+    "start_date_local": "2021-02-21 22:27:29",
+    "location_country": "{'latitude': 30.283627658420137, 'longitude': 120.055791015625, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u6d59\u6c5f\u7701', 'city': '\u676d\u5dde\u5e02', 'cityCode': '0571'}",
+    "summary_polyline": "",
+    "average_heartrate": null,
+    "average_speed": 0.6600128783000644,
+    "streak": 1
+  },
+  {
+    "run_id": 9223370422901870807,
+    "name": "run from keep",
+    "distance": 540.0,
+    "moving_time": "0:11:25",
+    "type": "Run",
+    "start_date": "2021-02-22 00:03:36",
+    "start_date_local": "2021-02-22 08:03:36",
+    "location_country": "{'latitude': 30.283627658420137, 'longitude': 120.055791015625, 'country': '\u4e2d\u56fd', 'nationCode': '156', 'province': '\u6d59\u6c5f\u7701', 'city': '\u676d\u5dde\u5e02', 'cityCode': '0571'}",
+    "summary_polyline": "",
+    "average_heartrate": null,
+    "average_speed": 0.7883211678832117,
+    "streak": 2
   }
 ];
 
